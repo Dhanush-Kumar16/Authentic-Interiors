@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
   <body>
     <a href="index.html">Authentic Interiors Design</a>
